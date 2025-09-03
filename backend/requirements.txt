@@ -1,0 +1,14 @@
+# Web server
+flask
+flask-cors
+werkzeug
+
+# Machine Learning
+tensorflow
+numpy
+pillow
+
+# LLM Integration
+python-dotenv
+langchain-groq
+langchain
